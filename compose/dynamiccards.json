@@ -7,7 +7,8 @@
         "view_type": "bigCard",
         "data": {
           "title": "B-Card",
-          "description": "this a sample description for the card "
+          "description": "this a sample description for the card ",
+          "createdBy": "Shahid Raza"
         }
       },
       {
@@ -20,7 +21,8 @@
             "horizontal_padding": 4,
             "view_type": "buttonCard",
             "data": {
-              "title": "M-pay"
+              "title": "M-pay",
+              "createdBy": "Shahid"
             }
           },
           {
@@ -28,7 +30,8 @@
             "horizontal_padding": 4,
             "view_type": "buttonCard",
             "data": {
-              "title": "Setting"
+              "title": "Setting",
+              "createdBy": "Android Developer"
             }
           },
           {
@@ -36,12 +39,14 @@
             "horizontal_padding": 4,
             "view_type": "buttonCard",
             "data": {
-              "title": "Loan"
+              "title": "Loan",
+              "createdBy": "Software engineer"
             }
           }
         ],
         "data": {
-          "title": "Pay Now"
+          "title": "Pay Now",
+          "createdBy": "Android Developer"
         }
       },
       {
@@ -101,7 +106,8 @@
         "horizontal_padding": 4,
         "view_type": "buttonCard",
         "data": {
-          "title": "Loan"
+          "title": "Loan",
+          "createdBy": "Bank"
         }
       }
     ]
