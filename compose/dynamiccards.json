@@ -2,16 +2,6 @@
     "view_type": "column",
     "content": [
       {
-        "vertical_padding": 32,
-        "horizontal_padding": 32,
-        "view_type": "bigCard",
-        "data": {
-          "title": "B-Card",
-          "description": "this a sample description for the card ",
-          "createdBy": "Shahid Raza"
-        }
-      },
-      {
         "vertical_padding": 2,
         "horizontal_padding": 4,
         "view_type": "row",
@@ -47,6 +37,16 @@
         "data": {
           "title": "Pay Now",
           "createdBy": "Android Developer"
+        }
+      },
+      {
+        "vertical_padding": 32,
+        "horizontal_padding": 32,
+        "view_type": "bigCard",
+        "data": {
+          "title": "B-Card",
+          "description": "this a sample description for the card ",
+          "createdBy": "Shahid Raza"
         }
       },
       {
