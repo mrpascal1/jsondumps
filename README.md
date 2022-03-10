@@ -10,7 +10,7 @@ A place to dump all your static JSONs for testing.
 
 If you want to make your folder go ahead. Or else try to dump your JSON in any of the above folders.
 
-#### You can access your static JSON files from github raw.githubusercontent.com.
+#### You can access your static JSON files from raw.githubusercontent.com.
 E.g <a href="https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json">https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json</a>
 # NOTE: Don't edit any exsiting JSON file.
 
