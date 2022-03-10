@@ -9,10 +9,9 @@ Repository for dumping static JSONs for testing.
 5. Create a Pull Request (if you want)
 
 If you want to make your folder go ahead. Or else try to dump your JSON in any of the above folders.
-After you done with the changes in ```jsondumps``` folder
 
 #### You can access your static jsons files from github raw.githubusercontent.com.
-E.g ```https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json```
+E.g [https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json]```https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json```
 
 # NOTE: Don't edit any exsiting json file.
 
