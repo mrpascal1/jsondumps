@@ -6,12 +6,14 @@ Repository for dumping static JSONs for testing.
 2. Clone your fork repo
 3. Add json files/folders
 4. add -> commit -> push to your fork
-5. Create a Pull Request
+5. Create a Pull Request (if you want)
 
 If you want to make your folder go ahead. Or else try to dump your JSON in any of the above folders.
 After you done with the changes in ```jsondumps``` folder
-Run the following command.
 
-# DON'T EDIT ANY EXISTING JSON FILE
+#### You can access your static jsons files from github raw.githubusercontent.com.
+E.g ```https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json```
+
+# NOTE: Don't edit any exsiting json file.
 
 ### Pull requests will be automerged in this repository. If they don't have any conflicts.
