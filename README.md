@@ -1,5 +1,5 @@
 # jsondumps
-Repository for dumping static JSONs for testing.
+A place to dump all your static JSONs for testing.
 
 ## How to add your json file?
 1. Fork this repo
