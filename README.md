@@ -4,7 +4,7 @@ A place to dump all your static JSONs for testing.
 ## How to add your json file?
 1. Fork this repo
 2. Clone your fork repo
-3. Add json files/folders
+3. Add JSON files/folders
 4. add -> commit -> push to your fork
 5. Create a Pull Request (if you want)
 
