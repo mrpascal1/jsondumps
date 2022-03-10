@@ -10,8 +10,8 @@ Repository for dumping static JSONs for testing.
 
 If you want to make your folder go ahead. Or else try to dump your JSON in any of the above folders.
 
-#### You can access your static jsons files from github raw.githubusercontent.com.
+#### You can access your static JSON files from github raw.githubusercontent.com.
 E.g <a href="https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json">https://raw.githubusercontent.com/mrpascal1/jsondumps/main/compose/dynamiccards.json</a>
-# NOTE: Don't edit any exsiting json file.
+# NOTE: Don't edit any exsiting JSON file.
 
 ### Pull requests will be automerged in this repository. If they don't have any conflicts.
